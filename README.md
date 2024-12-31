@@ -33,7 +33,7 @@ atabase URI in the `config.py` file.
 ## **Future Enhancements**
 - Add multi-language support.
 - Introduce video sharing capabilities.
-- Memory Reminders:-Send notifications about anniversaries or "On This Day" memories.
+
 
 ---
 
